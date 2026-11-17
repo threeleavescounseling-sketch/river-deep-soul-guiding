@@ -1,0 +1,707 @@
+{
+  "id": "pg_3aagqyae7m",
+  "title": "For the road between gatherings.",
+  "slug": "resources",
+  "seo": {
+    "title": "Resources — River Deep Soul Guiding",
+    "description": "Podcasts, clips, talks, worksheets and links from Jeffrey James and The Integrated Man."
+  },
+  "sections": [
+    {
+      "id": "sec_3474q5ag56",
+      "preset": "starter/stack-12@1",
+      "anchor": "top",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_trq5shvrvq",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Resources"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "For the road between gatherings."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Listening, watching and practice to keep the work alive at home."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Podcasts Clips Talks Worksheets Links & Writing"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_teb2n78hbr",
+      "preset": "starter/stack-12@1",
+      "anchor": "podcasts",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_vxd5a3qz8j",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Listen"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Podcasts"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_3d69tmxhs2",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Podcast title",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Show name · guest · one line on what it covers."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Podcast title",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Show name · guest · one line on what it covers."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Podcast title",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Show name · guest · one line on what it covers."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_hqvgn0q05t",
+      "preset": "starter/stack-12@1",
+      "anchor": "clips",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_3827q599tj",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Watch"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Clips"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_g4m0a2c0ak",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Clip title",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Short moments from circles, teachings and conversations."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Clip title",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Short moments from circles, teachings and conversations."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Clip title",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Short moments from circles, teachings and conversations."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_5vqq376bk5",
+      "preset": "starter/stack-12@1",
+      "anchor": "talks",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_m6edxersq5",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Learn"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Talks"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_58ypwtm0n1",
+      "preset": "starter/stack-6-6@1",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_5grqrbh49h",
+          "type": "text",
+          "v": 1,
+          "column": 0,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Talk · coming soon"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Talk title"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Where it was given · length · what it explores."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_hmwn8h8jne",
+          "type": "text",
+          "v": 1,
+          "column": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Talk · coming soon"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Talk title"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Where it was given · length · what it explores."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_3qjmga2g1k",
+      "preset": "starter/stack-12@1",
+      "anchor": "worksheets",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_9p2rp7mpn1",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Practice"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Worksheets"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_7fd5gw8v29",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Worksheet title",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "A practice to take home after a group or weekend."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Worksheet title",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "A practice to take home after a group or weekend."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Worksheet title",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "A practice to take home after a group or weekend."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_vrykv2arf5",
+      "preset": "starter/stack-12@1",
+      "anchor": "links",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_zzsfxza4dx",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Read"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Links & Writing"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_j31f5pnvxb",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "In the River",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Jeffrey’s Substack: essays and notes from the work."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Jeffrey James · Deep Soul Coaching",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Soul guiding, shadow work, men’s groups and 1:1 sessions."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Keith Martin-Smith",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zen priest, author and co-leader of The Integrated Man."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Elkstone Farm",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The farm in Steamboat Springs that hosts The Integrated Man."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    }
+  ]
+}

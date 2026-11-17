@@ -1,0 +1,797 @@
+{
+  "id": "pg_8rw6p6a50h",
+  "title": "The Integrated Man",
+  "slug": "integrated-man",
+  "seo": {
+    "title": "The Integrated Man — River Deep Soul Guiding",
+    "description": "The Integrated Man: a men's weekend at Elkstone Farm, Steamboat Springs, with Jeffrey James, Keith Martin-Smith, Marco Lam and Eddie Konold."
+  },
+  "sections": [
+    {
+      "id": "sec_sj364cz0w5",
+      "preset": "starter/stack-12@1",
+      "anchor": "top",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_5r9117y8ad",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "A River Deep collaboration · Elkstone Farm"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Integrated Man"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "A men’s weekend in the mountains outside Steamboat Springs, Colorado. Three days around council and fire, in the body and on the cushion, to see what’s been holding you back and claim what’s yours to do."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_hnnskjzjpx",
+      "preset": "starter/stack-12@1",
+      "anchor": "why",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_2x9sghnr75",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Why this weekend"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "One life. One pass through to bring your gifts fully into the world."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The weekend is built to help men see, claim and clarify their purpose in the places that matter most: sex, intimacy and partnership; career, money and being lit up by their work; and the communities they belong to."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The integrated man we’re pointing toward is grounded and emotionally open, clear in his boundaries, strong and tender at once, and able to build relationships that make everyone in them stronger."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_cs4hna16hy",
+      "preset": "starter/stack-12@1",
+      "anchor": "for-you",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_e9cym35xz8",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Who it’s for"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Men who feel stuck, numb, or too much."
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Distance in emotional or physical intimacy"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Inertia in your career, or scarcity around money and relationships"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Soft boundaries with a boss, partner, children or parents"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Feeling numb, or unsure what you’re actually feeling"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "A partnership that has lost its passion"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Being told you’re too intense, or not intense enough"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_8c381nsc85",
+      "preset": "starter/stack-12@1",
+      "anchor": "practices",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_9r8zfs2qsb",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "What we practice"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Embodied, relational, and honest."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_18hq861f42",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Hot seat in the circle",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Direct work in the center of the circle with all four leaders."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Embodiment",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Physical practices to get back into the body, where the heart and the fire live."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Sitting practice",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Meditation and mindful, fierce presence with yourself and the other men."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Ownership",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Taking responsibility for your life and relationships and leaving the victim stance behind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Staying relational",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Staying connected when triggered, and leading with curiosity before defensiveness or advice."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Leading men",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leading small groups, and bringing the weekend home into daily life."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_0t38cgxe80",
+      "preset": "starter/stack-12@1",
+      "anchor": "weekend",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_gh9vbbk3mz",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The shape of the weekend"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Friday night to Sunday supper."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_s4eempm4kj",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Friday",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Opening council, dinner at the farm, and an evening fire circle."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Saturday",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Morning sit and embodiment, then circles and teaching through the day, an afternoon break, an evening closing circle and meditation."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Sunday",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Morning sit and embodiment, more circle work, then “Bringing it home” before a final dinner together."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_v1b3ym4xqy",
+      "preset": "starter/stack-12@1",
+      "anchor": "place",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_ztpf2xrg86",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The land"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Elkstone Farm, Steamboat Springs"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Meals are cooked on site by the farm’s chef with local meat and fresh produce. Camp on the land in a tent or camper van a short walk from the main house, where showers, bathrooms and a full kitchen are open around the clock. Or stay in town, about five minutes away."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_87y5zk9shg",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Visit Elkstone Farm",
+            "link": {
+              "type": "url",
+              "url": "https://elkstonefarm.com"
+            },
+            "role": "secondary"
+          }
+        },
+        {
+          "id": "blk_mte8cqckd4",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Your guides"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_d6f2nhrzxy",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Jeffrey James",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Keith Martin-Smith",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Marco Lam",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Eddie Konold",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_5stpdrr2gv",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Keith and Marco have sat in the same men’s group for more than fourteen years."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_mhc0w2f4mw",
+      "preset": "starter/stack-12@1",
+      "anchor": "interest",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_2sgg3mvy86",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Next weekend"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Dates coming soon."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Get in touch to join the interest list and hear first when the next Integrated Man weekend opens."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_7rjdx3vmrx",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Join the interest list",
+            "link": {
+              "type": "url",
+              "url": "https://jeffreyjames.coach"
+            },
+            "role": "primary"
+          }
+        },
+        {
+          "id": "blk_s6917neepm",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Keith’s Integrated Man page",
+            "link": {
+              "type": "url",
+              "url": "https://www.keithmartinsmith.com/integrated-man-1"
+            },
+            "role": "secondary"
+          }
+        }
+      ]
+    }
+  ]
+}

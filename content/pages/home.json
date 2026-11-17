@@ -1,0 +1,747 @@
+{
+  "id": "pg_heqwzz4187",
+  "title": "Descend into your depths.",
+  "slug": "",
+  "seo": {
+    "title": "River Deep Soul Guiding — Jeffrey James",
+    "description": "Soul guiding, shadow work and men's work with Jeffrey James. Home of The Integrated Man weekends and a library of resources."
+  },
+  "sections": [
+    {
+      "id": "sec_jpd85n74pc",
+      "preset": "starter/stack-12@1",
+      "anchor": "top",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_gasxy6qttj",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "River Deep Soul Guiding · Jeffrey James"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Descend into your depths."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Soul guiding and shadow work to explore your depths, live more fully in your body, and experience new ways of inhabiting the shape that you are."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_2gjcehk24v",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "The Integrated Man",
+            "link": {
+              "type": "page",
+              "page": "pg_heqwzz4187"
+            },
+            "role": "primary"
+          }
+        },
+        {
+          "id": "blk_nradrz7jhk",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Explore resources",
+            "link": {
+              "type": "page",
+              "page": "pg_heqwzz4187"
+            },
+            "role": "secondary"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_f8hr4w62ys",
+      "preset": "starter/stack-12@1",
+      "anchor": "guiding",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_e9ewrvx765",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The work"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Everything has value, especially the things we fear most."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We are all imperfect, but we’re not broken. A lack of access to the buried and denied parts of ourselves contributes to our feelings of numbness, isolation, and fear. It’s these protected and denied parts that hold missing life force, energy that is a powerful resource for our healing, growth, and expansion."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_1gp7cqq8mp",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Access",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Step",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Achieve",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_qd7dk00ptq",
+      "preset": "starter/stack-12@1",
+      "anchor": "ways",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_z7vj1ddd17",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Ways to work together"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Find the current that fits."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_jvz71q9qhw",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Men’s Group Programs",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nine-week group sessions to explore a different way of being in ourselves, our relationships, and the larger world."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Individual Soul Guiding",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Deeply relational and collaborative sessions with a clear focus on personal work, reflection, and avenues of change and growth."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "Retreats for Men",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Intensely immersive journeys to challenge you physically, psychologically, and spiritually."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_w06p0zra13",
+      "preset": "starter/stack-12@1",
+      "anchor": "integrated-man",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_8sas9w8qez",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Featured collaboration"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Integrated Man"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "A men’s weekend at Elkstone Farm in Steamboat Springs, Colorado, co-led by Jeffrey James, Keith Martin-Smith, Marco Lam and Eddie Konold. Three days of council, fire, embodiment and sitting practice for men ready to claim their purpose in love, work and community."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Elkstone Farm · Steamboat Springs, CO Friday evening – Sunday Next dates: to be announced"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_166vk4153v",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "About the weekend",
+            "link": {
+              "type": "page",
+              "page": "pg_heqwzz4187"
+            },
+            "role": "primary"
+          }
+        },
+        {
+          "id": "blk_dec8v3jvzq",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Join the interest list",
+            "link": {
+              "type": "page",
+              "page": "pg_heqwzz4187"
+            },
+            "role": "secondary"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_gtjjdn3jcq",
+      "preset": "starter/stack-12@1",
+      "anchor": "resources",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_ppjhh2qhy6",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Resources"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "For the road between gatherings."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Podcasts, clips, talks, worksheets and writing to keep the practice alive at home."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_brsedt0swn",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Podcasts",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_heqwzz4187"
+                }
+              },
+              {
+                "heading": "Clips",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_heqwzz4187"
+                }
+              },
+              {
+                "heading": "Talks",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_heqwzz4187"
+                }
+              },
+              {
+                "heading": "Worksheets",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_heqwzz4187"
+                }
+              },
+              {
+                "heading": "Links & Writing",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_heqwzz4187"
+                }
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_4211060yed",
+      "preset": "starter/stack-12@1",
+      "anchor": "voices",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_g5bbt714j2",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Men who jumped into the river"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_zsvkz2d6k8",
+      "preset": "starter/stack-4-4-4@1",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            4,
+            4,
+            4
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_ykcj4r6vrw",
+          "type": "text",
+          "v": 1,
+          "column": 0,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I feel more connected to myself: my power, my kindness, my skills in communicating about real issues, feelings, and needs. Jeffrey held the space, participated, and led us in a really skilled, tender, powerful way."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "ADAM M."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_gkwhth8hcv",
+          "type": "text",
+          "v": 1,
+          "column": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sitting around the fire and co-creating space to listen and share with our hearts has been one of the most valuable experiences I have committed to, a truly heart opening practice that has cultivated both confidence and humility in me."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "JEFF H."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_jvx4w0b54a",
+          "type": "text",
+          "v": 1,
+          "column": 2,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The most memorable part of it was in the Kiva, around a fire, connected to something primitive and real. I compare it to sitting among wise council – of curious and interesting men who see possibility for living a greater purpose."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "DAVID B."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_wr9w6k69z0",
+      "preset": "starter/stack-12@1",
+      "anchor": "connect",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_vhrk0ahcp9",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Connect"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Let’s explore these waters together."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Not sure which path is right for you? Start with a free consultation."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_rkz8sethjd",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Schedule a free consultation",
+            "link": {
+              "type": "url",
+              "url": "https://jeffreyjames.coach"
+            },
+            "role": "primary"
+          }
+        }
+      ]
+    }
+  ]
+}

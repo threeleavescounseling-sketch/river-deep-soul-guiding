@@ -1,0 +1,59 @@
+{
+  "choices": {
+    "palette": {
+      "brand": "#d0612a",
+      "neutral": "warm",
+      "contrast": "standard",
+      "source": "brand"
+    },
+    "pairing": "fraunces-hanken",
+    "density": "comfortable",
+    "shape": "soft",
+    "buttons": "solid",
+    "motion": "subtle",
+    "imageTreatment": "none",
+    "typography": {
+      "heading": {
+        "family": "Fraunces",
+        "category": "serif",
+        "italic": true
+      },
+      "body": {
+        "family": "Work Sans",
+        "category": "sans-serif"
+      },
+      "scale": {
+        "button": {
+          "size": 15.2,
+          "letterSpacing": 0.04,
+          "weight": 600
+        },
+        "nav": {
+          "size": 15.2
+        },
+        "wordmark": {
+          "size": 20,
+          "letterSpacing": 0.02,
+          "weight": 800,
+          "font": "heading"
+        }
+      }
+    }
+  },
+  "overrides": {
+    "color": {
+      "background": {
+        "$value": "#12100e",
+        "$type": "color"
+      },
+      "text": {
+        "$value": "#f1e8d8",
+        "$type": "color"
+      },
+      "accent": {
+        "$value": "#d0612a",
+        "$type": "color"
+      }
+    }
+  }
+}

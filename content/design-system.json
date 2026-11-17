@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "brand": {
+    "name": "River Deep"
+  },
+  "tokens": {
+    "colors": {
+      "ink": {
+        "value": "#12100e",
+        "role": "background"
+      },
+      "char": {
+        "value": "#1b1714"
+      },
+      "coal": {
+        "value": "#26201b"
+      },
+      "ember": {
+        "value": "#d0612a",
+        "role": "brand"
+      },
+      "ember-hi": {
+        "value": "#e8923f"
+      },
+      "cream": {
+        "value": "#f1e8d8",
+        "role": "text"
+      },
+      "ash": {
+        "value": "#b3a796"
+      }
+    },
+    "fonts": {
+      "heading": {
+        "family": "Fraunces",
+        "google": true
+      },
+      "body": {
+        "family": "Work Sans",
+        "google": true
+      }
+    },
+    "type": {
+      "nav": {
+        "size": 15.2
+      },
+      "wordmark": {
+        "size": 20,
+        "letterSpacing": 0.02,
+        "weight": 800,
+        "font": "heading"
+      },
+      "button": {
+        "size": 15.2,
+        "letterSpacing": 0.04,
+        "weight": 600
+      }
+    }
+  },
+  "rules": [
+    "The page's own sections were brought across as designer components: keep their look, edit their fields.",
+    "New sections: use the colours and fonts above through Site Styles (var(--os-color-…), var(--os-font-…))."
+  ],
+  "mapping": {
+    "notes": [
+      "Read your page’s styles: 7 colours, its fonts (Work Sans, Fraunces) and 3 text styles.",
+      "Your brand colour #d0612a leads the palette (buttons, links and accents).",
+      "Page background #12100e, text #f1e8d8.",
+      "Your fonts (Fraunces, Work Sans) are used as they are — free on Google Fonts and published with the site.",
+      "Text sizes kept: button 15.2px, nav 15.2px, wordmark 20px.",
+      "16 colour pairings were nudged so all text stays readable (WCAG AA), e.g. surface #f8f1ec → #6e6864, surface-raised #ffffff → #696969, heading #19110a → #f3e8de.",
+      "Body text contrast 15.6:1.",
+      "Your page's own colours and fonts were kept; the brand files you added are in the design system for Claude."
+    ],
+    "contrast": [
+      {
+        "theme": "light",
+        "role": "surface",
+        "from": "#f8f1ec",
+        "to": "#6e6864",
+        "against": "text"
+      },
+      {
+        "theme": "light",
+        "role": "surface-raised",
+        "from": "#ffffff",
+        "to": "#696969",
+        "against": "text"
+      },
+      {
+        "theme": "light",
+        "role": "heading",
+        "from": "#19110a",
+        "to": "#f3e8de",
+        "against": "surface"
+      },
+      {
+        "theme": "light",
+        "role": "text-muted",
+        "from": "#6b615a",
+        "to": "#f1e8d8",
+        "against": "text"
+      },
+      {
+        "theme": "light",
+        "role": "link",
+        "from": "#943900",
+        "to": "#ffe4d8",
+        "against": "surface"
+      },
+      {
+        "theme": "light",
+        "role": "accent",
+        "from": "#d0612a",
+        "to": "#ffad8a",
+        "against": "surface"
+      },
+      {
+        "theme": "light",
+        "role": "focus",
+        "from": "#b64a06",
+        "to": "#ffad8a",
+        "against": "surface"
+      },
+      {
+        "theme": "light",
+        "role": "success",
+        "from": "#007835",
+        "to": "#9effb3",
+        "against": "surface"
+      },
+      {
+        "theme": "light",
+        "role": "warning",
+        "from": "#8a5600",
+        "to": "#ffe6c9",
+        "against": "surface"
+      },
+      {
+        "theme": "light",
+        "role": "danger",
+        "from": "#b32322",
+        "to": "#ffe4e0",
+        "against": "surface"
+      },
+      {
+        "theme": "brand",
+        "role": "text",
+        "from": "#371000",
+        "to": "#310e00",
+        "against": "background"
+      },
+      {
+        "theme": "brand",
+        "role": "text-muted",
+        "from": "#511c00",
+        "to": "#310e00",
+        "against": "background"
+      },
+      {
+        "theme": "brand",
+        "role": "link",
+        "from": "#371000",
+        "to": "#310e00",
+        "against": "background"
+      },
+      {
+        "theme": "brand",
+        "role": "success",
+        "from": "#003f18",
+        "to": "#001e08",
+        "against": "background"
+      },
+      {
+        "theme": "brand",
+        "role": "warning",
+        "from": "#492b00",
+        "to": "#281500",
+        "against": "background"
+      },
+      {
+        "theme": "brand",
+        "role": "danger",
+        "from": "#660005",
+        "to": "#3c0002",
+        "against": "background"
+      }
+    ]
+  },
+  "components": {},
+  "sources": [
+    {
+      "kind": "html",
+      "name": "page.zip",
+      "format": "html",
+      "at": "2026-11-17T01:06:15.663Z"
+    }
+  ],
+  "updatedAt": "2026-11-17T01:06:15.663Z",
+  "brief": {
+    "about": "Jeffrey James's soul guiding, shadow work and men's work practice (River Deep Soul Guiding), serving as an umbrella for The Integrated Man, a men's weekend at Elkstone Farm in Steamboat Springs, CO, co-led with Keith Martin-Smith, Marco Lam and Eddie Konold, plus a resources library (podcasts, clips, talks, worksheets, links).",
+    "audience": "Men seeking deeper, more embodied and soulful lives; they should learn about the work, join the Integrated Man interest list, book a free consultation, and use the resources.",
+    "feeling": [
+      "fire circle",
+      "grounded",
+      "deep"
+    ],
+    "notes": "Next Integrated Man dates TBA; interest-list buttons point to jeffreyjames.coach for now. Resource cards marked 'coming soon' are placeholders for Jeffrey's real links. Free address for now; domain later."
+  }
+}

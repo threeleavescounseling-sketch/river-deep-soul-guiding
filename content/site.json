@@ -1,0 +1,88 @@
+{
+  "title": "River Deep",
+  "tagline": "Soul guiding, shadow work and men's work with Jeffrey James. Home of The Integrated Man weekends and a library of resources.",
+  "nav": [
+    {
+      "type": "page",
+      "page": "pg_heqwzz4187",
+      "label": "Soul Guiding",
+      "anchor": "guiding"
+    },
+    {
+      "type": "page",
+      "page": "pg_8rw6p6a50h",
+      "label": "The Integrated Man"
+    },
+    {
+      "type": "page",
+      "page": "pg_3aagqyae7m",
+      "label": "Resources"
+    },
+    {
+      "type": "page",
+      "page": "pg_heqwzz4187",
+      "label": "Connect",
+      "anchor": "connect"
+    }
+  ],
+  "header": {
+    "variant": "classic-left",
+    "sticky": true,
+    "transparentOnHero": false,
+    "mobileMenu": "fullscreen"
+  },
+  "footer": {
+    "id": "sec_zavj4kvpzj",
+    "label": "Footer",
+    "layout": {
+      "mode": "stack",
+      "columns": {
+        "d": [
+          12
+        ]
+      }
+    },
+    "style": {
+      "colorTheme": "light-accent"
+    },
+    "blocks": [
+      {
+        "id": "blk_mvb4k6nk4p",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "© 2026 River Deep"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "social": [
+    {
+      "network": "substack",
+      "url": "https://substack.com/@jeffreyjames676896"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s — River Deep",
+    "description": "Soul guiding, shadow work and men's work with Jeffrey James. Home of The Integrated Man weekends and a library of resources."
+  },
+  "locale": "en",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  }
+}
