@@ -1,5 +1,15 @@
 {
   "version": 1,
+  "brief": {
+    "about": "Jeffrey James's soul guiding, shadow work and men's work practice (River Deep Soul Guiding), serving as an umbrella for The Integrated Man, a men's weekend at Elkstone Farm in Steamboat Springs, CO, co-led with Keith Martin-Smith, Marco Lam and Eddie Konold, plus a resources library (podcasts, clips, talks, worksheets, links).",
+    "audience": "Men seeking deeper, more embodied and soulful lives; they should learn about the work, join the Integrated Man interest list, book a free consultation, and use the resources.",
+    "feeling": [
+      "fire circle",
+      "grounded",
+      "deep"
+    ],
+    "notes": "Next Integrated Man dates TBA; interest-list buttons point to jeffreyjames.coach for now. Resource cards marked 'coming soon' are placeholders for Jeffrey's real links. Free address for now; domain later."
+  },
   "brand": {
     "name": "River Deep"
   },
@@ -196,15 +206,5 @@
       "at": "2026-11-17T01:06:15.663Z"
     }
   ],
-  "updatedAt": "2026-11-17T01:06:15.663Z",
-  "brief": {
-    "about": "Jeffrey James's soul guiding, shadow work and men's work practice (River Deep Soul Guiding), serving as an umbrella for The Integrated Man, a men's weekend at Elkstone Farm in Steamboat Springs, CO, co-led with Keith Martin-Smith, Marco Lam and Eddie Konold, plus a resources library (podcasts, clips, talks, worksheets, links).",
-    "audience": "Men seeking deeper, more embodied and soulful lives; they should learn about the work, join the Integrated Man interest list, book a free consultation, and use the resources.",
-    "feeling": [
-      "fire circle",
-      "grounded",
-      "deep"
-    ],
-    "notes": "Next Integrated Man dates TBA; interest-list buttons point to jeffreyjames.coach for now. Resource cards marked 'coming soon' are placeholders for Jeffrey's real links. Free address for now; domain later."
-  }
+  "updatedAt": "2026-11-17T01:06:15.663Z"
 }
