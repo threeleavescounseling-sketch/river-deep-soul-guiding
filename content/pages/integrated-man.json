@@ -20,7 +20,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark-accent"
       },
       "blocks": [
         {
@@ -215,7 +215,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -537,7 +537,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -853,7 +853,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark-accent"
       },
       "blocks": [
         {
