@@ -20,7 +20,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark-accent"
       },
       "blocks": [
         {
@@ -117,7 +117,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "The weekend is built to help men see, claim and clarify their purpose in the places that matter most: sex, intimacy and partnership; career, money and being lit up by their work; and the communities they belong to."
+                      "text": "The weekend is built to help men see, claim and clarify their purpose in the places that matter most: sex and intimacy, money and work, connection with other men, self-respect, and following through."
                     }
                   ]
                 },
@@ -126,7 +126,73 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "The integrated man we’re pointing toward is grounded and emotionally open, clear in his boundaries, strong and tender at once, and able to build relationships that make everyone in them stronger."
+                      "text": "What men take home:",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "A clear look at where you’re drifting, with direct feedback on what it costs you"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Practices that work under pressure"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Stronger self-trust and a clearer standard for yourself as a man"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Real connection with other men"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -149,7 +215,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -177,7 +243,16 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Men who feel stuck, numb, or too much."
+                      "text": "Men who are drifting and ready to stop."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Often men who are doing well at work and struggling at home or in community. Men who want power without rigidity or anger, and heart without erasing themselves."
                     }
                   ]
                 },
@@ -192,7 +267,7 @@
                           "content": [
                             {
                               "type": "text",
-                              "text": "Distance in emotional or physical intimacy"
+                              "text": "Distance in emotional or physical intimacy, or a partnership that has lost its passion"
                             }
                           ]
                         }
@@ -206,7 +281,7 @@
                           "content": [
                             {
                               "type": "text",
-                              "text": "Inertia in your career, or scarcity around money and relationships"
+                              "text": "Money patterns, temper, discipline, or a phone that eats your attention"
                             }
                           ]
                         }
@@ -248,7 +323,7 @@
                           "content": [
                             {
                               "type": "text",
-                              "text": "A partnership that has lost its passion"
+                              "text": "Overwhelm from the state of the world, or a missing sense of purpose"
                             }
                           ]
                         }
@@ -262,11 +337,20 @@
                           "content": [
                             {
                               "type": "text",
-                              "text": "Being told you’re too intense, or not intense enough"
+                              "text": "Work that pays and doesn’t fulfill"
                             }
                           ]
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This weekend isn’t therapy, and it isn’t a place to apologize for being a man or to hide in debate. It’s built for change that holds up once you’re home."
                     }
                   ]
                 }
@@ -332,7 +416,6 @@
           "fields": {
             "items": [
               {
-                "heading": "Hot seat in the circle",
                 "body": {
                   "type": "doc",
                   "content": [
@@ -341,15 +424,15 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Direct work in the center of the circle with all four leaders."
+                          "text": "Direct coaching in the center of the circle with all four leaders."
                         }
                       ]
                     }
                   ]
-                }
+                },
+                "heading": "Hot seat in the circle"
               },
               {
-                "heading": "Embodiment",
                 "body": {
                   "type": "doc",
                   "content": [
@@ -363,10 +446,44 @@
                       ]
                     }
                   ]
-                }
+                },
+                "heading": "Embodiment"
               },
               {
-                "heading": "Sitting practice",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Meeting the buried and denied parts that run the show from underneath."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Shadow work"
+              },
+              {
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Practicing with other men, staying relational when triggered, leading with curiosity."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Partner & group work"
+              },
+              {
                 "body": {
                   "type": "doc",
                   "content": [
@@ -380,10 +497,10 @@
                       ]
                     }
                   ]
-                }
+                },
+                "heading": "Sitting practice"
               },
               {
-                "heading": "Ownership",
                 "body": {
                   "type": "doc",
                   "content": [
@@ -392,49 +509,16 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Taking responsibility for your life and relationships and leaving the victim stance behind."
+                          "text": "Taking responsibility for your life and relationships, and bringing the weekend home."
                         }
                       ]
                     }
                   ]
-                }
-              },
-              {
-                "heading": "Staying relational",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Staying connected when triggered, and leading with curiosity before defensiveness or advice."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "heading": "Leading men",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Leading small groups, and bringing the weekend home into daily life."
-                        }
-                      ]
-                    }
-                  ]
-                }
+                },
+                "heading": "Direct accountability"
               }
             ],
-            "columns": "4",
+            "columns": "3",
             "aspect": "4:5"
           }
         }
@@ -453,7 +537,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -496,7 +580,6 @@
           "fields": {
             "items": [
               {
-                "heading": "Friday",
                 "body": {
                   "type": "doc",
                   "content": [
@@ -505,15 +588,15 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Opening council, dinner at the farm, and an evening fire circle."
+                          "text": "Opening council, dinner at the farm, and a fire circle."
                         }
                       ]
                     }
                   ]
-                }
+                },
+                "heading": "Friday evening"
               },
               {
-                "heading": "Saturday",
                 "body": {
                   "type": "doc",
                   "content": [
@@ -522,15 +605,15 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Morning sit and embodiment, then circles and teaching through the day, an afternoon break, an evening closing circle and meditation."
+                          "text": "Morning sit and embodiment, then circles and teaching through the day, an afternoon break to wander and practice, an evening closing circle and a warrior’s rest meditation."
                         }
                       ]
                     }
                   ]
-                }
+                },
+                "heading": "Saturday"
               },
               {
-                "heading": "Sunday",
                 "body": {
                   "type": "doc",
                   "content": [
@@ -539,12 +622,13 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Morning sit and embodiment, more circle work, then “Bringing it home” before a final dinner together."
+                          "text": "Morning sit and embodiment, more circle work through the afternoon, and a closing session on bringing it home."
                         }
                       ]
                     }
                   ]
-                }
+                },
+                "heading": "Sunday"
               }
             ],
             "columns": "3",
@@ -603,7 +687,16 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Meals are cooked on site by the farm’s chef with local meat and fresh produce. Camp on the land in a tent or camper van a short walk from the main house, where showers, bathrooms and a full kitchen are open around the clock. Or stay in town, about five minutes away."
+                      "text": "Farm dinners and lunches through the weekend, cooked on site with local meat and fresh produce. Camp on the land at no charge in a tent or camper van, a short walk from the main house, where showers, bathrooms and a full kitchen are open around the clock. Or stay in Steamboat Springs, about five minutes away; there’s a list for men who want to share housing."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "40345 Virtus Way, Steamboat Springs, CO 80487"
                     }
                   ]
                 }
@@ -652,32 +745,72 @@
           "fields": {
             "items": [
               {
-                "heading": "Jeffrey James",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Licensed psychotherapist and men’s work facilitator. Known for cutting clarity and accountability."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Jeffrey James"
               },
               {
-                "heading": "Keith Martin-Smith",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ordained Zen priest, published author and martial arts lineage holder. Known for direct challenge and insight."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Keith Martin-Smith"
               },
               {
-                "heading": "Marco Lam",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Acupuncturist, permaculture expert, martial artist and community leader. Known for heart, curiosity and joy."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Marco Lam"
               },
               {
-                "heading": "Eddie Konold",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Licensed psychotherapist. Known for a grounded, everyday-man approach and warm listening."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Eddie Konold"
               }
             ],
             "columns": "4",
@@ -697,7 +830,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Keith and Marco have sat in the same men’s group for more than fourteen years."
+                      "text": "Keith and Marco have sat in the same men’s group for nearly twenty years."
                     }
                   ]
                 }
@@ -720,7 +853,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark-accent"
       },
       "blocks": [
         {

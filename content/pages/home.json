@@ -106,7 +106,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -155,25 +155,55 @@
           "fields": {
             "items": [
               {
-                "heading": "Access",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "A greater breadth and depth of options for how you engage with yourself and the world around you."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Access"
               },
               {
-                "heading": "Step",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Into the depths and flow with the river of your life."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Step"
               },
               {
-                "heading": "Achieve",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "A more soulful, meaningful journey that honors both who you are and who you’re meant to be."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Achieve"
               }
             ],
             "columns": "3",
@@ -308,7 +338,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark-accent"
       },
       "blocks": [
         {
@@ -529,7 +559,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -572,7 +602,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -683,7 +713,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark-accent"
       },
       "blocks": [
         {
